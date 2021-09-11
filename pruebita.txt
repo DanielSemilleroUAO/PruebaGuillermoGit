@@ -1,4 +1,12 @@
 Mi primer proyecto git
 Mi segunda línea
 tercera linea gui
+<<<<<<< HEAD
 hjbcdscjbuas gui 2
+=======
+<<<<<<< HEAD
+antes de hacer pull
+=======
+Se cambio a daniel
+>>>>>>> 83746830c3e0f999803eea5ad28e028cf84ef2e0
+>>>>>>> 8f05816b49a97355a3c42fc65cd9dea8f8a927c0
