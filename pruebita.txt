@@ -1,4 +1,8 @@
 Mi primer proyecto git
 Mi segunda línea
 tercera linea gui
+<<<<<<< HEAD
 antes de hacer pull
+=======
+Se cambio a daniel
+>>>>>>> 83746830c3e0f999803eea5ad28e028cf84ef2e0
